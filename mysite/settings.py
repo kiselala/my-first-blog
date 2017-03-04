@@ -25,7 +25,7 @@ SECRET_KEY = 'sh=ko*gtgj*!xl4c6*uzp9(llyq*+%s5x(rvhmxgt9qbgft-fr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kiselala.pythonanywhere.com']
 
 
 # Application definition
